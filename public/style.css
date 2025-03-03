@@ -1,0 +1,45 @@
+
+ body{
+    background-image: url("textura.png"); 
+ }
+
+
+header{
+    background-color: rgb(147, 162, 158);
+    font-family: futura;
+    text-align: center;
+
+    margin: 20px; 
+    padding: 20px; 
+    background-color: #f9f3f3; 
+    border: 2px ; 
+    border-radius: 15px;
+    
+}
+article{
+    background-color: rgb(235, 230, 223);
+    font-family: italico; font-style: italic;
+    text-align: center;
+
+    margin: 20px; 
+    padding: 15px; 
+    background-color: #c5b8b8a2; 
+    border: 2px; 
+    border-radius: 15px;
+
+
+
+}
+
+aside{
+    background-color: rgb(167, 158, 148);
+    font-family: italico; font-style: italic;
+    text-align: center;
+    
+    margin: 20px; 
+    padding: 15px; 
+    background-color: #b3abab; 
+    border: 2px ; 
+    border-radius: 15px;
+
+}
